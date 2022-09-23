@@ -1,5 +1,5 @@
 Recreating a QR code component
-Cloning a QR code component on Frontend Mentor.
+<p>Cloning a QR code component on Frontend Mentor.<p>
 
 Frontend Mentor - QR code component solution
 This is a solution to the QR code component challenge on Frontend Mentor. Frontend Mentor challenges help you improve your coding skills by building realistic projects.
