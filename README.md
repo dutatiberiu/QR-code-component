@@ -5,7 +5,7 @@
 <p1>This is a solution to the QR code component challenge on Frontend Mentor. Frontend Mentor challenges help you improve your coding skills by building realistic projects.</p1>
 
 <h3>Overview</h3>
-<p>This is day 1 from 100 days of coding and i started with a simple qr code component from FrontEnd Mentor challenges.</p>
+<p>This is day 1 from 100 days of coding and I started with a simple qr code component from FrontEnd Mentor challenges.</p>
 
 
 <h3>Built with</h3>
